@@ -21,5 +21,7 @@ docker-compose up -d
 
 ### 参考文档
 [主从配置文档](https://redis.io/topics/replication)
+
 [哨兵配置文档](https://redis.io/topics/sentinel)
+
 [集群配置文档](https://redis.io/topics/cluster-tutorial)
